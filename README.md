@@ -35,6 +35,7 @@ Greetings! I'm Niranjan, a web wizard from Bangalore with a knack for creating c
 
 
 ## Key Spells
+<div style="column-count: 2;">
 - React JS 🪄
 - React Native 🌌
 - Redux 📜
@@ -47,3 +48,4 @@ Greetings! I'm Niranjan, a web wizard from Bangalore with a knack for creating c
 - Git 🪓
 - Material UI 💫
 - Next.js 🚪
+</div>
