@@ -3,7 +3,7 @@
  ![React JS](https://img.shields.io/badge/React%20JS-Expert-purple?style=for-the-badge&logo=react)
  ![React Native](https://img.shields.io/badge/React%20Native-Expert-yellow?style=for-the-badge&logo=react)
  ![Redux](https://img.shields.io/badge/Redux-Intermediate-Violet?style=for-the-badge&logo=redux)
- ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-Expert-darkgreen?style=for-the-badge&logo=redux)
+ ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-Intermediate-darkgreen?style=for-the-badge&logo=redux)
  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Expert-Indigo?style=for-the-badge&logo=tailwind-css)
  ![React Router](https://img.shields.io/badge/React%20Router-Intermediate-blue?style=for-the-badge&logo=react-router)
  ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-red?style=for-the-badge&logo=javascript)
