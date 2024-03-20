@@ -4,9 +4,9 @@
 ## About Me
 Greetings! I'm Niranjan, a web wizard from Bangalore with a knack for creating captivating digital experiences. With expertise in ReactJS and React Native, I'm on a mission to blend code and creativity seamlessly. When I'm not crafting pixel-perfect UIs, you'll find me on the football field or exploring new destinations, drawing inspiration for my next masterpiece. Let's embark on a journey to redefine the digital landscape together! 🌟
 
-- **Portfolio:** [Explore My Work](https://niranjan-patil.vercel.app) 💼
-- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/heyniranjanpatil) 🔗
-- **Twitter:** [Follow Me on Twitter](https://twitter.com/heyniranjanp) 🐦
+- **Portfolio:** [![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen?style=for-the-badge&logo=react)](https://niranjan-patil.vercel.app) 💼
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/heyniranjanpatil) 🔗
+- **Twitter:** [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](https://twitter.com/heyniranjanp) 🐦
 
 
 ## Projects
@@ -35,17 +35,15 @@ Greetings! I'm Niranjan, a web wizard from Bangalore with a knack for creating c
 
 
 ## Key Spells
-<div style="column-count: 2;">
-- React JS 🪄
-- React Native 🌌
-- Redux 📜
-- Redux Toolkit 🧰
-- Tailwind CSS 🌈
-- React Router 🛤️
-- JavaScript 🌟
-- TypeScript 🎭
-- HTML/CSS 🎨
-- Git 🪓
-- Material UI 💫
-- Next.js 🚪
-</div>
+ ![React JS](https://img.shields.io/badge/React%20JS-Expert-purple?style=for-the-badge&logo=react)
+ ![React Native](https://img.shields.io/badge/React%20Native-Expert-yellow?style=for-the-badge&logo=react)
+ ![Redux](https://img.shields.io/badge/Redux-Intermediate-Violet?style=for-the-badge&logo=redux)
+ ![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-Expert-darkgreen?style=for-the-badge&logo=redux)
+ ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Expert-Indigo?style=for-the-badge&logo=tailwind-css)
+ ![React Router](https://img.shields.io/badge/React%20Router-Intermediate-blue?style=for-the-badge&logo=react-router)
+ ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-red?style=for-the-badge&logo=javascript)
+ ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-green?style=for-the-badge&logo=typescript)
+ ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Expert-purple?style=for-the-badge&logo=html5) 
+ ![Git](https://img.shields.io/badge/Git-Expert-red?style=for-the-badge&logo=git)
+ ![Material UI](https://img.shields.io/badge/Material%20UI-Intermediate-blue?style=for-the-badge&logo=material-ui)
+ ![Next.js](https://img.shields.io/badge/Next.js-Intermediate-yellow?style=for-the-badge&logo=next-js)
