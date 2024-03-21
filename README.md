@@ -19,18 +19,6 @@ Greetings! I'm Niranjan, a web wizard from Bangalore with a knack for creating c
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-brightgreen?style=for-the-badge&logo=react)](https://niranjan-patil.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/heyniranjanpatil) [![Twitter](https://img.shields.io/badge/Twitter-Profile-blue?style=for-the-badge&logo=twitter)](https://twitter.com/heyniranjanp)
 
 
-## Projects
-### 🎵 Soundtrack
-- Dive into the world of melodies with Soundtrack, a React and Node.js marvel powered by the Spotify Web API.
-- Immerse yourself in TypeScript-driven magic for a codebase that's as robust as it is maintainable.
-- Witness the fusion of industry best practices and boundless creativity for an unparalleled music experience.
-
-### 🚀 delivr.ai
-- Elevate your digital presence with delivr.ai's feature-packed Dashboard and Resolutions module, built with ReactJS and Material UI.
-- Harness the power of Redux Toolkit for seamless state management and scalability.
-- Join me on a journey of innovation as we design architectures that defy limits and set new standards.
-
-
 ## Professional Odyssey
 ### 🌟 PortDev India - Software Sorcerer
 - Collaborated with a league of extraordinary developers to craft enchanting frontend experiences using ReactJS.
